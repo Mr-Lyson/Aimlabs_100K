@@ -6,8 +6,8 @@ title:  Team
 # {{ page.title }}
 
 
-## USER 1
-***UCI Net ID***: ucinetid1
+## Zixuan Chen
+***UCI Net ID***: 28626926
 
 ## Chuyang Peng
 ***UCI Net ID***: 40818030

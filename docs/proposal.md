@@ -22,6 +22,6 @@ Since scores are all what AI care about, the higher score AI can earn, the bette
 Date:
 
 ## AI Tool Usage
-We are going to use *chatgpt* for debugging our code or optimize the speed of our code if possible.
+We are going to use ***chatgpt*** for debugging our code or optimize the speed of our code if possible.
 
-We plan to use *Gymnasium*, an API standard for reinforcement learning, as a basic API to connect our Aimlabs game.
+We plan to use ***Gymnasium***, an API standard for reinforcement learning, as a basic API to connect our Aimlabs game.

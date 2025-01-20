@@ -9,8 +9,8 @@ title:  Team
 ## USER 1
 ***UCI Net ID***: ucinetid1
 
-## USER 2
-***UCI Net ID***: ucinetid2
+## Chuyang Peng
+***UCI Net ID***: 40818030
 
 ## USER 3
 ***UCI Net ID***: ucinetid3

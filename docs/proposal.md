@@ -24,4 +24,4 @@ Date: 2025/1/20 10:15am
 ## AI Tool Usage
 We are going to use ***chatgpt*** for debugging our code or optimize the speed of our code if possible.
 
-We plan to use ***Gymnasium***, an API standard for reinforcement learning, as a basic API to connect our Aimlabs game.
+We plan to use ***Gymnasium***, an API standard for reinforcement learning, as a basic API to connect our Aimlabs game. Meanwhile, Aimlabs has its own API we can use to extract the data for analysis purpose. Some online API tools are available for this game, too.

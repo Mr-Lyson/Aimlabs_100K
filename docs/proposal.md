@@ -14,7 +14,7 @@ The application of this project includes making reliable AI teammates or more ch
 We are going to use reinforcement learning with Proximal Policy Optimization or Advantage Actor-Crtic together with screen capture and keyboard/mouse control to complete this project.
 
 ## Evaluation Plan
-Aimlabs is a fps training game. During the game, multiple objects will appears on different position, player need to move their mouse onto the object and click on them to shoot the object and earn scores. As a successful AI, it should be able to quickly move the mouse to the objects and click on them. 
+Aimlabs is a fps training game. During the game, multiple objects will appears on different position, player need to move their mouse onto the object and click on them to shoot the object and earn scores. As a successful AI, it should be able to quickly move the mouse to the objects and click on them. We hope the successful AI could reach 100k score.
 
 Since scores are all what AI care about, the higher score AI can earn, the better it performs. We expect our AI can only move randomly at the beginning of project. However, as it improves from reinforcement learning, it should learns to move mouse toward the objects as quickly as possible then click on them, that will allows it to earn the highest score. This is out moonshot case.
 

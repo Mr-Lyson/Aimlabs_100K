@@ -12,5 +12,5 @@ title:  Team
 ## Chuyang Peng
 ***UCI Net ID***: 40818030
 
-## USER 3
-***UCI Net ID***: ucinetid3
+## Runlin Wang
+***UCI Net ID***: 81501154

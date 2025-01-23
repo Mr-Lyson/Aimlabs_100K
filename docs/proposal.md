@@ -18,6 +18,8 @@ Aimlabs is a fps training game. During the game, multiple objects will appears o
 
 Since scores are all what AI care about, the higher score AI can earn, the better it performs. We expect our AI can only move randomly at the beginning of project. However, as it improves from reinforcement learning, it should learns to move mouse toward the objects as quickly as possible then click on them, that will allows it to earn the highest score. This is out moonshot case.
 
+To test whether there is a overfit situation, we may train our module using several background, but testing it using different environment. At first, the test cases will be easy, but the difficuly will gradually increase, so that we can see the overall performance of our AI.
+
 ## Meet the Instructor
 Date: 2025/1/20 10:15am
 

@@ -4,6 +4,7 @@ import win32api
 import win32con
 import random
 import keyboard
+import pyautogui  # 用于颜色检测
 from PIL import ImageGrab
 
 # 🎯 颜色范围（只要像素在这个范围内，就触发点击）
@@ -74,4 +75,4 @@ if __name__ == "__main__":
     print("🎯 启动自动点击程序...")
     print("请将鼠标移动到目标颜色区域，按 'ESC' 退出")
     time.sleep(2)  # 启动前等待 2 秒
-    auto_click(duration=60)
+    auto_click(duration=70)
